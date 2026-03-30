@@ -1,0 +1,8 @@
+/build/
+/dist/
+/nbproject/private/
+*.exe
+*.jar
+Musica/
+Musicas_Descargada/
+config.xml
