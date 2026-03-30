@@ -4,51 +4,51 @@ Una herramienta de escritorio potente y ligera construida en Java Swing que perm
 🚀 Características
 Interfaz Intuitiva: Diseño limpio con colores rojo y negro.
 
-Alta Calidad: Conversión automática a MP3 (320kbps) usando FFmpeg.
+  1.Alta Calidad: Conversión automática a MP3 (320kbps) usando FFmpeg.
 
-Portable: No requiere instalación compleja, solo ejecuta y descarga.
+  2. Portable: No requiere instalación compleja, solo ejecuta y descarga.
 
 Multi-hilo: La interfaz no se congela durante la descarga.
 <img width="574" height="380" alt="image" src="https://github.com/user-attachments/assets/af977cd2-15e5-4921-bcc6-6f309175abc9" />
 🛠️ Requisitos del Sistema
 Para que el desarrollador o usuario final lo ejecute, necesita:
 
-Java JRE/JDK 8 o superior.
+   1. Java JRE/JDK 8 o superior.
 
-yt-dlp.exe (Incluido en la release).
+   2. yt-dlp.exe (Incluido en la release).
 
-ffmpeg.exe (Incluido en la release para la conversión de audio).
+   3. ffmpeg.exe (Incluido en la release para la conversión de audio).
 
 📦 Instalación y Uso
-Ve a la sección de Releases.
+    1. Ve a la sección de Releases.
 
-Descarga el archivo .zip de la última versión.
+    2. Descarga el archivo .zip de la última versión.
 
-Extrae el contenido en una carpeta.
+    3. Extrae el contenido en una carpeta.
 
-Ejecuta Descargador.exe.
+    4. Ejecuta Descargador.exe.
 
-Pega el link de YouTube y presiona "DESCARGAR AHORA".
+    5. Pega el link de YouTube y presiona "DESCARGAR AHORA".
 
 💻 Tecnologías Utilizadas
-Lenguaje: Java (Swing para la GUI).
+  1. Lenguaje: Java (Swing para la GUI).
 
-Motor de Descarga: yt-dlp.
+  2. Motor de Descarga: yt-dlp.
 
-Procesamiento de Audio: FFmpeg.
+  3. Procesamiento de Audio: FFmpeg.
 
-Empaquetado: Launch4j.
+  4. Empaquetado: Launch4j.
 
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la barra de progreso o añadir soporte para listas de reproducción:
 
-Haz un Fork del proyecto.
+      1. Haz un Fork del proyecto.
 
-Crea una rama para tu mejora (git checkout -b feature/MejoraIncreible).
+      2. Crea una rama para tu mejora (git checkout -b feature/MejoraIncreible).
 
-Haz un commit de tus cambios.
+      3. Haz un commit de tus cambios.
 
-Envía un Pull Request.
+      4. Envía un Pull Request.
 
 👤 Autor
 Manfler - Estudiante de Ingeniería de Sistemas
