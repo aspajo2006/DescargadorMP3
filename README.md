@@ -49,21 +49,13 @@ Para que el desarrollador o usuario final lo ejecute, necesita:
       3. Haz un commit de tus cambios.
 
       4. Envía un Pull Request.
-
-
-
-
-      1. entra em tag.
-      <img width="490" height="181" alt="image" src="https://github.com/user-attachments/assets/171bb84c-1558-4a2a-bc1b-e8fab7847136" />
-
-      2. entras a v1.0
-      <img width="696" height="170" alt="image" src="https://github.com/user-attachments/assets/5c2f769d-270b-4bee-afea-2be0e9d183b5" />
-      3.
-      <img width="1688" height="721" alt="image" src="https://github.com/user-attachments/assets/be57e6d3-7715-4070-a5de-9a37ecb77b34" />
-
-
-
-
+descargar el archivo .zip
+1. entra a tag.
+   <img width="490" height="181" alt="image" src="https://github.com/user-attachments/assets/0f8aadf5-bea0-4801-b6a1-8c8de1853dc2" />
+2. entra ala v1.0.
+   <img width="696" height="170" alt="image" src="https://github.com/user-attachments/assets/2bad9810-7735-4d91-a042-661c112ca186" />
+3. baja hasta bajo donde esta el archivo zip. se llama descargador.
+   <img width="1688" height="721" alt="image" src="https://github.com/user-attachments/assets/5edc3bad-401f-4394-bc83-41e3a986cc15" />
 
 👤 Autor
 Manfler - Estudiante de Ingeniería de Sistemas
