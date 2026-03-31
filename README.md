@@ -50,5 +50,20 @@ Para que el desarrollador o usuario final lo ejecute, necesita:
 
       4. Envía un Pull Request.
 
+
+
+
+      1. entra em tag.
+      <img width="490" height="181" alt="image" src="https://github.com/user-attachments/assets/171bb84c-1558-4a2a-bc1b-e8fab7847136" />
+
+      2. entras a v1.0
+      <img width="696" height="170" alt="image" src="https://github.com/user-attachments/assets/5c2f769d-270b-4bee-afea-2be0e9d183b5" />
+      3.
+      <img width="1688" height="721" alt="image" src="https://github.com/user-attachments/assets/be57e6d3-7715-4070-a5de-9a37ecb77b34" />
+
+
+
+
+
 👤 Autor
 Manfler - Estudiante de Ingeniería de Sistemas
