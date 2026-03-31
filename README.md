@@ -51,10 +51,10 @@ Para que el desarrollador o usuario final lo ejecute, necesita:
       4. Envía un Pull Request.
 descargar el archivo .zip
 1. entra a tag.
+2.  entra ala v1.0.
+3.  baja hasta bajo donde esta el archivo zip. se llama descargador.
 <img width="490" height="181" alt="image" src="https://github.com/user-attachments/assets/0f8aadf5-bea0-4801-b6a1-8c8de1853dc2" />
-2. entra ala v1.0.
 <img width="696" height="170" alt="image" src="https://github.com/user-attachments/assets/2bad9810-7735-4d91-a042-661c112ca186" />
-3. baja hasta bajo donde esta el archivo zip. se llama descargador.
 <img width="1688" height="721" alt="image" src="https://github.com/user-attachments/assets/5edc3bad-401f-4394-bc83-41e3a986cc15" />
 
 👤 Autor
